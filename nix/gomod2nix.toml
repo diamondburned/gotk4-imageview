@@ -1,0 +1,18 @@
+schema = 3
+
+[mod]
+  [mod.'github.com/diamondburned/gotk4-adwaita/pkg']
+    version = 'v0.0.0-20261031204147-41c057c79b39'
+    hash = 'sha256-vGUVibfVdVOYJgF5wHoIEjSf7hjlEPFn4ydTY9BGfLo='
+
+  [mod.'github.com/diamondburned/gotk4/pkg']
+    version = 'v0.4.2-0.20261031093702-169e0f82bca8'
+    hash = 'sha256-S6oR6zDgrV9RpvEJsjNL68TYCZaWr1KjGOi/Iu3fLck='
+
+  [mod.'golang.org/x/image']
+    version = 'v0.25.0'
+    hash = 'sha256-7SUSCTo4cPremIDCBOm+YEg5pIk4lgdu68puWabM+NQ='
+
+  [mod.'golang.org/x/sync']
+    version = 'v0.0.0-20210220032951-036812b2e83c'
+    hash = 'sha256-qyBoAsnVWZyQM7UkJ573EjijMHK0q5mVoY/o4a8Agr4='
