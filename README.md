@@ -1,6 +1,7 @@
 # gotk4-imageview
 
 [![Go Reference](https://pkg.go.dev/badge/libdb.so/gotk4-imageview.svg)](https://pkg.go.dev/libdb.so/gotk4-imageview)
+[![AI Slop Inside](https://sladge.net/badge.svg)](https://sladge.net)
 
 A pure-Go image decoder and a GTK4/Libadwaita image viewer widget for
 [gotk4](https://github.com/diamondburned/gotk4).
